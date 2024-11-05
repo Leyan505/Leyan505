@@ -1,8 +1,6 @@
 <h1 align="center">Hola 👋, soy Andrés Guido</h1>
 <h3 align="center">Apasionado por el desarrollo de software y web.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leyan505" alt="leyan505" /></a> </p>
-
 - 🔭 I’m currently working on [Sistema Gestión de Compra y Venta](https://github.com/Leyan505/prototype-compra-venta-autolote)
 
 <h3 align="left">Connect with me:</h3>
