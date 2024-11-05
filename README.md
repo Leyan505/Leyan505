@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Andrés Guido</h1>
+<h1 align="center">Hola 👋, mi nombre es Andrés Guido</h1>
 <h3 align="center">Apasionado por el desarrollo de software y web.</h3>
 
 - 🔭 I’m currently working on [Sistema Gestión de Compra y Venta](https://github.com/Leyan505/prototype-compra-venta-autolote)
